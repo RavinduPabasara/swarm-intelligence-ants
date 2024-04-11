@@ -16,7 +16,7 @@ The simulation consists of ants moving around a virtual environment containing f
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/ant-foraging-simulation.git
+    git clone https://github.com/RavinduPabasara/ant-foraging-simulation.git
     ```
 
 2. Install the required dependencies:
